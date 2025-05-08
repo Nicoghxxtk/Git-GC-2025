@@ -1,0 +1,3 @@
+Adicionando conteudo em um arquivo já existente.
+
+Usando o vim pra acostumar com um editor de texto diferente.
